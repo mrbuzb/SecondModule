@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\2.2Dars\2.2Dars\bin\Debug\net8.0\2.2Dars.exe
+C:\Users\User\source\repos\2.2Dars\2.2Dars\bin\Debug\net8.0\2.2Dars.deps.json
+C:\Users\User\source\repos\2.2Dars\2.2Dars\bin\Debug\net8.0\2.2Dars.runtimeconfig.json
+C:\Users\User\source\repos\2.2Dars\2.2Dars\bin\Debug\net8.0\2.2Dars.dll
+C:\Users\User\source\repos\2.2Dars\2.2Dars\bin\Debug\net8.0\2.2Dars.pdb
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.AssemblyInfo.cs
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.dll
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\refint\2.2Dars.dll
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.pdb
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\2.2Dars.genruntimeconfig.cache
+C:\Users\User\source\repos\2.2Dars\2.2Dars\obj\Debug\net8.0\ref\2.2Dars.dll
