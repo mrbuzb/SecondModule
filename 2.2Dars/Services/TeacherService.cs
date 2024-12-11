@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace _2._2Dars.Services;
 
-public class TeacherService
+public class TeacherService : ITeacherService
 {
 
     private string teacherFilePath;

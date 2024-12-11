@@ -3,17 +3,13 @@ using System.Text.Json;
 
 namespace _2._2Dars.Services;
 
-public class DirectorService
+public class DirectorService : IDirectorService
 {
     private string directorPath = "../../../Data/Director.json";
 
 
-    public DirectorService()
-    {
 
-    }
-
-    public void SaveInform(List<Director> director)
+    private void SaveInform(List<Director> director)
     {
         
 
@@ -23,7 +19,7 @@ public class DirectorService
 
 
 
-    public List<Director> GetDirectorInformation()
+    private List<Director> GetDirectorInformation()
     {
 
         var inform = File.ReadAllText(directorPath);

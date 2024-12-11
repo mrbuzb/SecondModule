@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace _2._2Dars.Services;
 
-public class TestService
+public class TestService : ITestService
 {
     private string testFilePath;
 
@@ -113,7 +113,7 @@ public class TestService
 
 
 
-    public void SaveInformation(List<Test> tests)
+    private void SaveInformation(List<Test> tests)
     {
 
         var testJson = JsonSerializer.Serialize(tests);

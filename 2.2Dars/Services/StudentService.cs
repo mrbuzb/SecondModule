@@ -1,9 +1,10 @@
 ﻿using _2._2dars.Api.Models;
+using _2._2Dars.Services;
 using System.Text.Json;
 
 namespace _2._2dars.Api.Services;
 
-public class StudentService
+public class StudentService : IStudentService
 {
     private string studentFilePath;
 
