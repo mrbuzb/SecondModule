@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "78d76bb8-659c-4a52-bcbe-a02f9a4b6078",
+    "FirstName": "Bahriddin",
+    "LastName": "Sayitmurodov",
+    "Age": 23,
+    "PhoneNumber": "\u002B998908897233",
+    "Email": "birbalo@gmail.com",
+    "Password": "Bahriddin",
+    "UserName": "Bahriddin",
+    "Messages": [],
+    "NewMessages": 1,
+    "OldMessages": 1
+  },
+  {
+    "ID": "0c5253c5-a7ed-4d59-97c8-09905b6cbf90",
+    "FirstName": "Aziz",
+    "LastName": "Hamroqulov",
+    "Age": 19,
+    "PhoneNumber": "\u002B998905501234",
+    "Email": "azizbek123@gmail.com",
+    "Password": "Azizbek1",
+    "UserName": "Azizbek1",
+    "Messages": [],
+    "NewMessages": 1,
+    "OldMessages": 1
+  },
+  {
+    "ID": "25aeccd5-f784-4fe0-a72f-afdf83e32c3a",
+    "FirstName": "Bekmurod",
+    "LastName": "Bekmurod",
+    "Age": 19,
+    "PhoneNumber": "\u002B998200072411",
+    "Email": "bekmurod@gmail.com",
+    "Password": "Bekmurod",
+    "UserName": "Bekmurod",
+    "Messages": [],
+    "NewMessages": 0,
+    "OldMessages": 0
+  }
+
+]
